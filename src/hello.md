@@ -1,5 +1,1 @@
----
-title: Hello
----
-
 Hello, world.

@@ -1,0 +1,7 @@
+[
+  "https://postman-echo.com/put"
+  {
+    method: "PUT"
+    body: hello.md
+  }
+]
